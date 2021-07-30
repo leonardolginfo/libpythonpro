@@ -1,2 +1,2 @@
 # libpythonpro
-Usando a lib requests
+##Projeto para exercício com libs Python do curso PythonPro
